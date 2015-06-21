@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+body{
+	background-color:#00C887;
+}
+*{
+	font-family: 'Source Sans Pro',sans-serif;
+	font-weight: 300;
+}
+
+
+section#one{
+	padding-top: 100px;
+}
+
+section#two{
+	background-color: rgba(255,255,255,0.8);
+	min-height: 100px;
+}
+
+section#three{
+	min-height: 100px;
+}
+
+div.container{
+	padding-top: 20px;
+	max-width: 900px;
+}
+
+img#logo{
+	max-width:120px;
+}
+
+h1{
+	font-family: 'Lobster';
+	color: #fff;
+	font-size: 60px;
+	font-weight: 700;
+
+}
+
+h2{
+	font-family: 'Lobster';
+	font-size: 40px;
+	font-weight: 700;	
+}
+
+h2.green{
+	color: #00C887;
+}
+h2.white{
+	color: #fff;
+}
+h3{
+
+	margin-top: -15px;
+	font-style: italic;
+	font-size: 1.9em;
+	color: #fff;
+}
+
+footer{
+	padding-top: 10px;
+	text-align: center;
+	font-size: 1.2em;
+	min-height: 50px;
+	color: #00C887;
+	background-color: #333333;
+}
+
+p#strapline{
+	font-size: 2em;
+	color: #000;
+	opacity: 0.5;
+	margin-top: 50px;
+}
+
+
